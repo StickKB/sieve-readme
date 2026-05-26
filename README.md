@@ -74,6 +74,10 @@ Verification covers model behavior, review-packet shape, candidate mutation, sou
 4. Make knowledge detail, graph, and source evidence contextual.
 5. Add evaluation coverage for capture quality, review usefulness, and grounded retrieval answers.
 
-## Demo media pending
+## Public-safe demo reel
 
-Planned demo: a 60-90 second walkthrough showing capture, AI extraction, review packet approval, Ask Sieve retrieval, and source evidence. Until that recording is safe to publish, this README uses architecture and workflow evidence instead of media claims.
+![Sieve public-safe demo reel](assets/sieve-demo-reel.svg)
+
+This sanitized walkthrough shows capture, AI extraction, review packet approval, and search/recall. It is public-safe walkthrough media, not private app footage.
+
+The reel uses synthetic content and high-level screens only. Real private data, raw source, endpoint details, schemas, and policies stay private.
